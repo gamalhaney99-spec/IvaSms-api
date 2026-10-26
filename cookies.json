@@ -1,1 +1,68 @@
-#Your Json Formated Cookies Here
+[
+  {
+    "name": "_octo",
+    "value": "GH1.1.2053698098.1792983772",
+    "domain": ".github.com",
+    "path": "/"
+  },
+  {
+    "name": "cpu_bucket",
+    "value": "lg",
+    "domain": ".github.com",
+    "path": "/"
+  },
+  {
+    "name": "preferred_color_mode",
+    "value": "dark",
+    "domain": ".github.com",
+    "path": "/"
+  },
+  {
+    "name": "tz",
+    "value": "Africa%2FCairo",
+    "domain": ".github.com",
+    "path": "/"
+  },
+  {
+    "name": "GHCC",
+    "value": "Required:1-Analytics:1-SocialMedia:1-Advertising:1",
+    "domain": ".github.com",
+    "path": "/"
+  },
+  {
+    "name": "MicrosoftApplicationsTelemetryDeviceId",
+    "value": "e6630c6a-5289-4444-bd1b-170ccb6b301d",
+    "domain": ".github.com",
+    "path": "/"
+  },
+  {
+    "name": "MSFPC",
+    "value": "GUID=61beb04c65b84380ab1ae5afb7d4f4f5&HASH=61be&LV=202610&V=4&LU=1792984393487",
+    "domain": ".github.com",
+    "path": "/"
+  },
+  {
+    "name": "ai_session",
+    "value": "teGXZRu07KsXVPgDRRve70|1792984389994|1792984549520",
+    "domain": ".github.com",
+    "path": "/"
+  },
+  {
+    "name": "color_mode",
+    "value": "%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%2D%7D%2C%22dark_theme%22%3A%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%2D%7D%7D",
+    "domain": ".github.com",
+    "path": "/"
+  },
+  {
+    "name": "datadome",
+    "value": "Ot7ax6gg2WNyE7hY4RpfRVBnkKCO9L4oQi9b1B0EViFaH1~DvDFqccZfRUJcU6lyhcX33JuDmKl2zglWa7ajFaM9EgU9ZSUfjHllLE7rveeOapVvyYCoSrzJruFWT980",
+    "domain": ".github.com",
+    "path": "/"
+  },
+  {
+    "name": "_dd_s_v2",
+    "value": "id=b06735b8-836b-4edd-9a3b-e82c33f6ab81&created=1792984560810&expire=17929865331498&c=0",
+    "domain": ".github.com",
+    "path": "/"
+  }
+]
